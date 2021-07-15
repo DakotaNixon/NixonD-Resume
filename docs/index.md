@@ -1,85 +1,84 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Dakota Nixon's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Dakota Nixon
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="nix18002@byui.edu">nix18002@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/dakota-nixon-19b556190">LinkedIn</a>
+| <a href="https://github.com/DakotaNixon">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- Seeking: Bachelors in Computer Science
 
 
-## Related Experience
+## Projects
 
-### Internships
+#### Extracurriclar
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+- Conway's Game of Life using Pygame
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- MTG Deck Optimization
 
-### Data Science Lead
+#### School related
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+- Gameify - Developed a fitness app that tracks users health with an "hp bar"
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
+- Predicting NBA PLayoff - Predicted playoffs for the 2019-2020 Season using Neural Net and K Nearest Neighbers Machine Learning algorithms  
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+__Forklift Operator__, Melaleuca
+`01/2021 - 06/2021`
 
+- Introduced new items into facility database to ensure integrity of inventory
+ 
+- Operated sit-down and stand-up forklifts while moving supplies, eliminating production lines’ downtime
 
-`2023-2025`
-__Service Missionary__, South Africa
+__Customer Service Representative__, WorkSteer Staffing
+`09/2020 - 12/2020`
 
+- Coordinated between client companies and employees to resolve conflict, ensure proper worker qualifications and oversaw completion of ordered work
+
+- Researched prospective company’s needs to recruit properly qualified worker base
+
+- Supervised over 50 employees of various experience backgrounds
+
+- Conducted payroll data audit of weekly work order revenue
+
+__Alarm Dispatch Operator__, Avantguard Monitoring 
+`12/2019 - 09/2020`
+
+- Resolved an average of 290 inbound calls each week where medical attention may have been needed
+
+- Maintained detail-oriented documentation to ensure proper information was given to local EMS dispatch
+
+__Line Cook__, The Hickory
+`08/2019 - 12/2019`
+
+- Instructed new staff in proper food preparation, storage, use of kitchen equipment, sanitation and safety
+
+- Changed and sanitized all cutting boards, benches and surfaces between tasks to avoid cross-contamination
+
+- Received food orders from cashiers and cooked items quickly to complete the entire order together and served hot
+
+__Cap 2 Associate__, Walmart
+`09/2016 - 10/2018`
+
+- Hauled Merchandise from trailers and backroom storage, using equipment and placed on correct store shelves
+
+- Helped customers locate desired items and transfer over-sized items to vehicles
+
+- Oversaw the entire Cap 2 process while filling in for supervisors on several occasions and coordinated other Cap 2 associates
 
 
 <!-- ### Footer
