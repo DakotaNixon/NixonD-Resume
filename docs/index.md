@@ -20,7 +20,11 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Seeking: Bachelors in Computer Science
 
-## Add a section that talks about your skills 
+## Skills
+
+`Mastery:` Python, HTML, CSS, Java, JavaScript, PHP, AJAX, C++, XML, GIT
+`Competency:` SQL, Data Mining, App Development, Computer Hardware Assembly
+`Other:` Forklift Operation, Customer Service, Team Collaboration, Composure Under Pressure, Team Leadership, Canva, Adobe Illustrator,Microsoft Office Suite
 
 ## Projects
 
@@ -36,17 +40,16 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Predicting NBA PLayoff - Predicted playoffs for the 2019-2020 Season using Neural Net and K Nearest Neighbers Machine Learning algorithms  
 
-## Service and Work History
-## add locations for your job histories 
+## Service and Work History 
 
-__Forklift Operator__, Melaleuca
+__Forklift Operator__, Melaleuca - Rexburg, Idaho
 `01/2021 - 06/2021`
 
 - Introduced new items into facility database to ensure integrity of inventory
  
 - Operated sit-down and stand-up forklifts while moving supplies, eliminating production lines’ downtime
 
-__Customer Service Representative__, WorkSteer Staffing
+__Customer Service Representative__, WorkSteer Staffing - Idaho Falls, Idaho
 `09/2020 - 12/2020`
 
 - Coordinated between client companies and employees to resolve conflict, ensure proper worker qualifications and oversaw completion of ordered work
@@ -57,14 +60,14 @@ __Customer Service Representative__, WorkSteer Staffing
 
 - Conducted payroll data audit of weekly work order revenue
 
-__Alarm Dispatch Operator__, Avantguard Monitoring 
+__Alarm Dispatch Operator__, Avantguard Monitoring - Rexburg, Idaho
 `12/2019 - 09/2020`
 
 - Resolved an average of 290 inbound calls each week where medical attention may have been needed
 
 - Maintained detail-oriented documentation to ensure proper information was given to local EMS dispatch
 
-__Line Cook__, The Hickory
+__Line Cook__, The Hickory - Rexburg, Idaho
 `08/2019 - 12/2019`
 
 - Instructed new staff in proper food preparation, storage, use of kitchen equipment, sanitation and safety
@@ -73,7 +76,7 @@ __Line Cook__, The Hickory
 
 - Received food orders from cashiers and cooked items quickly to complete the entire order together and served hot
 
-__Cap 2 Associate__, Walmart
+__Cap 2 Associate__, Walmart - Ammon, Idaho
 `09/2016 - 10/2018`
 
 - Hauled Merchandise from trailers and backroom storage, using equipment and placed on correct store shelves
