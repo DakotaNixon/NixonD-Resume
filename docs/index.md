@@ -83,6 +83,4 @@ __Cap 2 Associate__, Walmart
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: July 2021 -->
