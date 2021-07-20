@@ -20,6 +20,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 - Seeking: Bachelors in Computer Science
 
+## Add a section that talks about your skills 
 
 ## Projects
 
@@ -36,6 +37,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Predicting NBA PLayoff - Predicted playoffs for the 2019-2020 Season using Neural Net and K Nearest Neighbers Machine Learning algorithms  
 
 ## Service and Work History
+## add locations for your job histories 
 
 __Forklift Operator__, Melaleuca
 `01/2021 - 06/2021`
